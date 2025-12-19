@@ -1,0 +1,4 @@
+#!/bin/sh
+set -e
+chmod 644 /etc/os-release
+exit 0

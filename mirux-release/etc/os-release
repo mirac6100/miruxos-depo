@@ -1,0 +1,9 @@
+NAME="MiruxOS"
+VERSION="1.0"
+ID=miruxos
+ID_LIKE=ubuntu
+PRETTY_NAME="MiruxOS 1.0"
+VERSION_ID="1.0"
+HOME_URL="https://github.com/mirac6100"
+SUPPORT_URL="https://github.com/mirac6100"
+BUG_REPORT_URL="https://github.com/mirac6100"

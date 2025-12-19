@@ -1,0 +1,8 @@
+Package: mirux-release
+Version: 1.0
+Section: base
+Priority: required
+Architecture: amd64
+Maintainer: MiruxOS <repo@mirux.os>
+Description: MiruxOS release information
+ This package defines MiruxOS identity.

@@ -1,13 +1,29 @@
-Package: miruxos-test
-Version: 0.1
+Package: mirux-release
 Architecture: amd64
+Version: 1.0
+Priority: required
+Section: base
+Maintainer: MiruxOS <repo@mirux.os>
+Filename: pool/main/mirux-release_1.0_amd64.deb
+Size: 792
+MD5sum: 447c4c364289e362d821106d517840b7
+SHA1: 734313bf78f7aa023cb23cb071c71b9f74c4d3f2
+SHA256: 0c06b4c81677c96fccaac318bcb98acac9b44b9f03d3af8079f5ab7c6e1420a4
+SHA512: 520c6770e94ed103aaddf1decaf029c220722d704a554d0acb9520f3161357fbb6ec93d74af2d7790b2e6dc63ad1b30de45001b8e3d39804ace6e39078b873ab
+Description: MiruxOS release information
+ This package defines MiruxOS identity.
+
+Package: miruxos-test
+Architecture: amd64
+Version: 0.1
+Priority: optional
+Section: base
 Maintainer: MiruxOS
 Filename: pool/main/miruxos-test.deb
 Size: 482
 MD5sum: c486a54c701b508b91d9e7ed2b5601e6
 SHA1: 0970921fc9e7b94854f6aaf63b825353751c0ccb
 SHA256: fd4a9bb556af700d427ad9d0c78d008b15dffa68f7dedb5902cbe557257c38f9
-Section: base
-Priority: optional
+SHA512: dc36c7318df1255a200fbb8c9a82f02b324767b9257767d92f5391684503f01f68d7713914f4bf28c5e4a20dad76c2a3209579f90a18ae30094cba41aa685218
 Description: MiruxOS test package
 

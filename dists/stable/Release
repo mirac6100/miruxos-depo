@@ -1,0 +1,24 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Fri, 19 Dec 2025 08:46:37 +0000
+Description: MiruxOS Official Repository
+Label: MiruxOS
+Origin: MiruxOS
+Suite: stable
+MD5Sum:
+ 2d254090b5a586bd14a03f5a2ce53838              179 Release
+ c171f8a95d7b94f6a3196b195e773dbd             1051 main/binary-amd64/Packages
+ 4651b9d42ebae3df64c304cbe7f37088              620 main/binary-amd64/Packages.gz
+SHA1:
+ 0fca2200ea528aa48ae3c83f7bcfc572f9448330              179 Release
+ b744067830ecd7158adcdf336a709abd2baf55fb             1051 main/binary-amd64/Packages
+ be47b5538e581fe2009d0e7758546a2f36137dc1              620 main/binary-amd64/Packages.gz
+SHA256:
+ 7dd9df92fb99c2f4c0b2e630dab1cef448974a3fe35817e4c526c0f526b42081              179 Release
+ f8758ca31b4dba759db2ca415c1dea3e1d4fca2cd2332f4058159d968bd9b2e4             1051 main/binary-amd64/Packages
+ 44d3e3e4c1e4e2b04e2a883a192f27d516f1e4514b6d8210c4595979a248538b              620 main/binary-amd64/Packages.gz
+SHA512:
+ 3a3467b8ad1e68544c44d760e34377f7605177f77988e39a638bdd99bcf246a79873d470bdb5b4b0179ef5e8237b834e16abafa514975883af3a8fbf6534ce86              179 Release
+ 35fe98ef5a3a287b4c9cd9869dc2e2fdaed3c4881c7aac6094b87769e1b9f45ab029c6907dd8141c5a8dc191ba11584e6537969af54ae217b3692b8c5de6247d             1051 main/binary-amd64/Packages
+ c61562ee597c29c8c58e34dab71b98cf215f02921559cdfa92ec04fc2399f6d809525f0761bbd9a17d151cde0a68b33c370d3a83e16776957a11223ec5ea246d              620 main/binary-amd64/Packages.gz
