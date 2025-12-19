@@ -1,0 +1,13 @@
+Package: miruxos-test
+Version: 0.1
+Architecture: amd64
+Maintainer: MiruxOS
+Filename: pool/main/miruxos-test.deb
+Size: 482
+MD5sum: c486a54c701b508b91d9e7ed2b5601e6
+SHA1: 0970921fc9e7b94854f6aaf63b825353751c0ccb
+SHA256: fd4a9bb556af700d427ad9d0c78d008b15dffa68f7dedb5902cbe557257c38f9
+Section: base
+Priority: optional
+Description: MiruxOS test package
+
